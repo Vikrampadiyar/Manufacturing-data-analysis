@@ -1,2 +1,2 @@
 # Manufacturing-data-analysis
-Power BI dashboard for Crowdfunding analysis with interactive visualizations.
+This project analyzes manufacturing production data using SQL and Tableau to monitor production performance and quality metrics. It includes interactive dashboards and visualizations for manufacturing quantity, rejected quantity, processed quantity, wastage quantity, employee-wise and machine-wise rejection analysis, production trends, and department-wise performance comparison.
